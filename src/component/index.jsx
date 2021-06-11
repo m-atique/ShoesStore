@@ -1,0 +1,6 @@
+export {default as Home} from './Home/Home'
+export {default as Products} from './products/products'
+export {default as ProductMain} from './products/ProductMain'
+export {default as ShowPrd} from './showPrd/Showprd'
+export {default as About} from './Misc/About'
+export {default as NotFound} from './Misc/NotFound'

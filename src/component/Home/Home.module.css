@@ -1,0 +1,118 @@
+.mnGrid{
+    background-color: yellowgreen;
+}
+
+.central{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.column{
+    flex-direction: column;
+}
+.sb{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.fhfw{
+    height:100%;
+    
+}
+.prd{
+    transform: rotate(-90deg);
+    font-size: 48px;
+    font-weight: 900;
+ 
+}
+.prdDiv{
+   height:'100%'
+}
+.nxt{
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid olive;
+    height:0;
+    width:0
+    
+}
+.prev{
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid olive;
+    height:0;
+    width:0
+}
+.sclogo{
+    height:40px;
+    width:40px;
+   padding: 20px;
+    
+}
+.sclogo2{
+    height:40px;
+    width:40px;
+    padding: 20px;
+    
+}
+.shoeDiv{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color:white;;
+    margin:0 40px;
+    height:680px
+    
+}
+.shoeDiv2{
+   height:560px;
+   margin-top: 120px;
+}
+.pic{
+    width: 450px;
+    height:450px;
+    transform: rotate(-20deg);
+    position: relative;
+    left:-20px;
+    top: -100px;
+    
+}
+.subhead{
+    position: relative;
+    top:-100px
+}
+.subheadM{
+    position: relative;
+    top:-50px
+}
+.shoeDivM{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color:white;
+    margin:0 5px;
+    height:370px;
+    width:130px
+
+}
+.shoeDivM2{
+   height:250px;
+   margin-top: 120px;
+  
+}
+.picM{
+    width: 160px;
+    height:160px;
+    transform: rotate(-20deg);
+    position: relative;
+    left:-10px;
+    top: -40px;
+    
+}
+.btn{
+       
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 400;
+    border:none
+
+    
+}

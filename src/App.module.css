@@ -1,0 +1,32 @@
+.bckg{
+background-image: radial-gradient(circle at  35% 0% , rgb(232, 232, 232) 21%, rgb(246, 246, 246) 0%);
+width:100%
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 25px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0%;
+}
+.links{
+    font-weight: 600;
+    text-decoration-color: transparent;
+   margin-left: 20px;
+}
+
+.btlinks{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: transparent;  
+    justify-content: space-around;
+    background-color: rgb(232, 232, 232);
+    width:100%
+}
+.logo{
+    height:50px;
+    width:50px;
+   
+}
